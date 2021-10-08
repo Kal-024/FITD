@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\bin\Debug\FITD2.exe.config
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\bin\Debug\FITD2.exe
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\bin\Debug\FITD2.pdb
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.Form1.resources
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.exe
+C:\Users\Usuario\Desktop\FITD\FITD2\FITD2\obj\Debug\FITD2.pdb
